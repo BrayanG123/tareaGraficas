@@ -43,7 +43,7 @@ namespace practicaOpenTK1
             
             //para la silla (usamos 3 cuadrados)
             GL.Begin(BeginMode.QuadStrip);
-            GL.Vertex2(10.0, 5.0):
+            GL.Vertex2(10.0, 5.0);
             GL.Vertex2(15.0, 5.0);
             GL.Vertex2(10.0, 40.0);
             GL.Vertex2(15.0, 40.0);
